@@ -1,0 +1,59 @@
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\bin\Debug\presentationTier.exe.config
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\bin\Debug\presentationTier.exe
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\bin\Debug\presentationTier.pdb
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\bin\Debug\businessLogicTier.dll
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\bin\Debug\dataModel.dll
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\bin\Debug\businessLogicTier.pdb
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\bin\Debug\dataModel.pdb
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.Login.resources
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.csproj.GenerateResource.cache
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.csproj.CopyComplete
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.exe
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.pdb
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\bin\Debug\ConnectionStrings.config
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.AdminManagementApp.resources
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.AdminDepartmentForm.resources
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.AdminEmployeeForm.resources
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.SuperadminManagementApp.resources
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.ucAdminDashboard.resources
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.ucAdminDepartment.resources
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.ucAdminEmployee.resources
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.ucSuperadminAdmin.resources
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.ucSuperadminDashboard.resources
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.SuperadminAdminForm.resources
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.ChangePasswordForm.resources
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\bin\Debug\RestSharp.dll
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\presentationTier\bin\Debug\RestSharp.xml
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\bin\Debug\ConnectionStrings.config
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\bin\Debug\presentationTier.exe.config
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\bin\Debug\presentationTier.exe
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\bin\Debug\presentationTier.pdb
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\bin\Debug\businessLogicTier.dll
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\bin\Debug\dataModel.dll
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\bin\Debug\RestSharp.dll
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\bin\Debug\businessLogicTier.pdb
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\bin\Debug\dataModel.pdb
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\bin\Debug\RestSharp.xml
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.AdminDepartmentForm.resources
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.AdminEmployeeForm.resources
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.ChangePasswordForm.resources
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.Login.resources
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.AdminManagementApp.resources
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.Properties.Resources.resources
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.SuperadminAdminForm.resources
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.SuperadminManagementApp.resources
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.ucAdminDashboard.resources
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.ucAdminDepartment.resources
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.ucAdminEmployee.resources
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.ucSuperadminDashboard.resources
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.ucSuperadminAdmin.resources
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.csproj.CopyComplete
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.exe
+C:\Users\USER\Downloads\Jonathan - drive-download-20220108T160942Z-001 (1)\pbd-uas-3sima-microservices-final\pbd-uas-3sima-microservices\aplikasiPBD-ntier\presentationTier\obj\Debug\presentationTier.pdb

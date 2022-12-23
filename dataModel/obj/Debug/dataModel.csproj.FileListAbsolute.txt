@@ -1,0 +1,5 @@
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\dataModel\bin\Debug\dataModel.dll
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\dataModel\bin\Debug\dataModel.pdb
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\dataModel\obj\Debug\dataModel.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\dataModel\obj\Debug\dataModel.dll
+C:\Users\admin\Documents\GitHub\pbd-uts-3sima-n-tier\aplikasiPBD-ntier\aplikasiPBD-ntier\dataModel\obj\Debug\dataModel.pdb

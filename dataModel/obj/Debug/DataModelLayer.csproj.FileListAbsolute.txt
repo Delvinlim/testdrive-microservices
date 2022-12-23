@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\TestDrive\dataModel\bin\Debug\dataModel.dll
+C:\Users\USER\source\repos\TestDrive\dataModel\bin\Debug\dataModel.pdb
+C:\Users\USER\source\repos\TestDrive\dataModel\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\USER\source\repos\TestDrive\dataModel\obj\Debug\DataModelLayer.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\TestDrive\dataModel\obj\Debug\DataModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TestDrive\dataModel\obj\Debug\DataModelLayer.csproj.CopyComplete
+C:\Users\USER\source\repos\TestDrive\dataModel\obj\Debug\dataModel.dll
+C:\Users\USER\source\repos\TestDrive\dataModel\obj\Debug\dataModel.pdb
